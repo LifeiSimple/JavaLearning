@@ -3,7 +3,7 @@ package v1ch05.MyTest;
 import java.lang.reflect.*;
 import java.util.Random;
 
-public class ReflectionTest {
+public class ReflectionMyTest {
     public static void main(String[] args) {
         Test t = new Test("test");
 
