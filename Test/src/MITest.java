@@ -24,6 +24,7 @@ public class MITest implements MyImplement {
         TestClonePerson tcp2 = (TestClonePerson) tcp.clone();
         System.out.println(tcp.toString());
         System.out.println(tcp2.toString());
+        System.out.println(tcp == tcp2);
         tcp2.ds.setDescribe("jia");
         tcp.ds.setDescribe("wangjiaxiang");
         System.out.println(tcp.toString());
