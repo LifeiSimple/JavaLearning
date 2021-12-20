@@ -1,3 +1,5 @@
+package Implement;
+
 public class MITest implements MyImplement {
     private String tString;
 
@@ -68,7 +70,7 @@ class TestClonePerson implements Cloneable{
 
     @Override
     public String toString() {
-        return "TestClonePerson{" +
+        return "Implement.TestClonePerson{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", ds=" + ds.getDescribe() +
