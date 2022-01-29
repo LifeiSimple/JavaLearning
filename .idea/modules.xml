@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/java基础学习.iml" filepath="$PROJECT_DIR$/java基础学习.iml" />
       <module fileurl="file://$PROJECT_DIR$/练习/练习.iml" filepath="$PROJECT_DIR$/练习/练习.iml" />
     </modules>

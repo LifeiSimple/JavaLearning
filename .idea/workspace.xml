@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1991a6d-2939-4f33-a5a2-062f5083a1de" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/Stack/AbstractStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/ChaRuSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/MaoPaoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/XuanZeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/AbstractList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/ArrayList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/AbstractStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/ChaRuSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/MaoPaoSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/XuanZeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ChaRuSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MaoPaoSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/XuanZeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode203.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode59.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/SynchBankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/SynchBankTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/ThreadTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/UnsynchBankTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/FileIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/FieldAccess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/FileClass/FileTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/Super.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/jisuan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/SynchBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/SynchBankTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/UnsynchBankTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/FileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/FileClass/FileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/Named.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Named.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/Nothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Nothing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/src/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Beetle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/src/JiCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/JiCheng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/练习/src/Nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Nothing.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wangjx" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ec2d37c9-76b3-4224-a745-b9ac640e5b7a" />
+        <option name="url" value="git@github.com:LifeiSimple/JavaLearning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Java/apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="20g1cjlcQC7Y5dpoWiQdyDSwfB2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/DataStructure/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.42627737" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.splitter.proportion" value="0.25988144" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\代码\Java\java基础学习" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\学习\代码\Java\java基础学习\Test" />
+      <recent name="D:\学习\代码\Java\java基础学习\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sort" />
+      <recent name="Lambda" />
+      <recent name="" />
+      <recent name="v1ch05" />
+      <recent name="v1ch03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FileTest">
+    <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharIO.File" />
+      <module name="练习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CharIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ByteIO.FileIO" />
+      <module name="练习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ByteIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileClass.FileTest" />
+      <module name="练习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.Main" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.Main" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.FileIO" />
+      <item itemvalue="Application.File" />
+      <item itemvalue="Application.FileTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileTest" />
+        <item itemvalue="Application.File" />
+        <item itemvalue="Application.FileIO" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\hp\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1991a6d-2939-4f33-a5a2-062f5083a1de" name="Changes" comment="" />
+      <created>1636451497587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636451497587</updated>
+      <workItem from="1636451498786" duration="862000" />
+      <workItem from="1636531477189" duration="47000" />
+      <workItem from="1636602703060" duration="4365000" />
+      <workItem from="1636619928572" duration="2591000" />
+      <workItem from="1636622736978" duration="3677000" />
+      <workItem from="1636686215724" duration="11909000" />
+      <workItem from="1636768519024" duration="2325000" />
+      <workItem from="1636956262938" duration="578000" />
+      <workItem from="1637026671981" duration="3848000" />
+      <workItem from="1637114830316" duration="3257000" />
+      <workItem from="1637157791042" duration="99000" />
+      <workItem from="1637157897264" duration="215000" />
+      <workItem from="1637201499602" duration="11751000" />
+      <workItem from="1637286982932" duration="3306000" />
+      <workItem from="1637377398515" duration="5012000" />
+      <workItem from="1637464085558" duration="10004000" />
+      <workItem from="1637547173951" duration="4678000" />
+      <workItem from="1637591806528" duration="960000" />
+      <workItem from="1637637153035" duration="3535000" />
+      <workItem from="1637721184678" duration="1154000" />
+      <workItem from="1637724693475" duration="5966000" />
+      <workItem from="1637805852981" duration="3869000" />
+      <workItem from="1637889955874" duration="694000" />
+      <workItem from="1637977834711" duration="1952000" />
+      <workItem from="1638012776884" duration="4070000" />
+      <workItem from="1638068458134" duration="738000" />
+      <workItem from="1638154062551" duration="4086000" />
+      <workItem from="1638256551568" duration="1579000" />
+      <workItem from="1638327505470" duration="1187000" />
+      <workItem from="1638777991520" duration="406000" />
+      <workItem from="1638778666209" duration="1218000" />
+      <workItem from="1638859014662" duration="2639000" />
+      <workItem from="1639019648041" duration="642000" />
+      <workItem from="1639213964137" duration="720000" />
+      <workItem from="1639376559467" duration="1237000" />
+      <workItem from="1639471011224" duration="1497000" />
+      <workItem from="1639561281776" duration="3070000" />
+      <workItem from="1639617707179" duration="10531000" />
+      <workItem from="1639706251776" duration="6176000" />
+      <workItem from="1639728026178" duration="5355000" />
+      <workItem from="1639792200755" duration="741000" />
+      <workItem from="1639880278557" duration="13598000" />
+      <workItem from="1639970800021" duration="8703000" />
+      <workItem from="1640054078969" duration="628000" />
+      <workItem from="1640138700791" duration="7955000" />
+      <workItem from="1640227264409" duration="2096000" />
+      <workItem from="1640312542440" duration="1784000" />
+      <workItem from="1640397607985" duration="5689000" />
+      <workItem from="1640492126484" duration="4446000" />
+      <workItem from="1640571113395" duration="4644000" />
+      <workItem from="1640657187995" duration="5681000" />
+      <workItem from="1640742329070" duration="4927000" />
+      <workItem from="1640832738024" duration="5182000" />
+      <workItem from="1640916113820" duration="5981000" />
+      <workItem from="1641001158656" duration="5821000" />
+      <workItem from="1641175227168" duration="4321000" />
+      <workItem from="1641219536074" duration="675000" />
+      <workItem from="1641260699706" duration="5133000" />
+      <workItem from="1641349019334" duration="3835000" />
+      <workItem from="1641438718167" duration="672000" />
+      <workItem from="1641521170781" duration="1202000" />
+      <workItem from="1641695244359" duration="638000" />
+      <workItem from="1641786824333" duration="805000" />
+      <workItem from="1641866153130" duration="593000" />
+      <workItem from="1641959263261" duration="9067000" />
+      <workItem from="1642040182548" duration="4652000" />
+      <workItem from="1642132039770" duration="593000" />
+      <workItem from="1642419543564" duration="621000" />
+      <workItem from="1642483751933" duration="4783000" />
+      <workItem from="1642514974391" duration="233000" />
+      <workItem from="1642515262237" duration="1002000" />
+      <workItem from="1642557828446" duration="3059000" />
+      <workItem from="1642645082244" duration="4082000" />
+      <workItem from="1642738979837" duration="1844000" />
+      <workItem from="1642826901884" duration="1394000" />
+      <workItem from="1642930781001" duration="590000" />
+      <workItem from="1643011630561" duration="1202000" />
+      <workItem from="1643077028659" duration="4395000" />
+      <workItem from="1643163703145" duration="2971000" />
+      <workItem from="1643247941431" duration="8448000" />
+      <workItem from="1643428654124" duration="6061000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次git提交">
+      <created>1637592721406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637592721406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改Nothing.java，测试git">
+      <created>1637638461602</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637638461602</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改Nothing.java，测试git">
+      <created>1637724209755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637724209755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加ReflectionTest类，练习反射中的Class类&#10;删除之前在Nothing类中留下的测试git同步的注释">
+      <created>1637735704182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637735704182</updated>
+    </task>
+    <task id="LOCAL-00005" summary="添加 ReflectionTest 类，&#10;该程序可以分析 Java 解释器能够加载的任何类。">
+      <created>1637807678719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637807678719</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rename ReflectionTest to ReflectionMyTest">
+      <created>1637807741994</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637807741994</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第五章：继承&#10;反射&#10;添加 CopyOfTest、MethodTableTest、ObjectAnalyzer、ObjectAnalyzerTest">
+      <created>1638020871976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638020871976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第五章：继承&#10;反射&#10;添加 CopyOfTest、MethodTableTest、ObjectAnalyzer、ObjectAnalyzerTest">
+      <created>1639377094952</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377094952</updated>
+    </task>
+    <task id="LOCAL-00009" summary="clone">
+      <created>1639646640398</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639646640398</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lambda 表达式">
+      <created>1639748126730</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639748126730</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Exception">
+      <created>1640005298603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1640005298603</updated>
+    </task>
+    <task id="LOCAL-00012" summary="泛型类">
+      <created>1640663744707</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1640663744708</updated>
+    </task>
+    <task id="LOCAL-00013" summary="集合 + 类初始化顺序">
+      <created>1641220179215</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641220179215</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7a9ef888-7281-489a-bf14-d8ef6fad809a">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次git提交" />
+    <MESSAGE value="修改Nothing.java，测试git" />
+    <MESSAGE value="添加ReflectionTest类，练习反射中的Class类&#10;删除之前在Nothing类中留下的测试git同步的注释" />
+    <MESSAGE value="添加 ReflectionTest 类，&#10;该程序可以分析 Java 解释器能够加载的任何类。" />
+    <MESSAGE value="rename ReflectionTest to ReflectionMyTest" />
+    <MESSAGE value="第五章：继承&#10;反射&#10;添加 CopyOfTest、MethodTableTest、ObjectAnalyzer、ObjectAnalyzerTest" />
+    <MESSAGE value="clone" />
+    <MESSAGE value="lambda 表达式" />
+    <MESSAGE value="Exception" />
+    <MESSAGE value="泛型类" />
+    <MESSAGE value="集合 + 类初始化顺序" />
+    <option name="LAST_COMMIT_MESSAGE" value="集合 + 类初始化顺序" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.Exception" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="fields" />
+        <watch expression="a[0]" language="JAVA" />
+        <watch expression="a[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

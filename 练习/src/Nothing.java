@@ -3,8 +3,9 @@ import Implement.MITest;
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Scanner;
 
-public class Nothing implements Person, Named{
+public class Nothing implements Person, Named {
     public static void main(String[] args) {
 
         MITest test = new MITest("wangjiaxiang");
@@ -49,5 +50,19 @@ class LengthComparator implements Comparator<String> {
     @Override
     public int compare(String o1, String o2) {
         return o1.length() - o2.length();
+    }
+}
+
+class jisuan {
+    public static void main(String[] args) {
+        double a = 1;
+        Scanner sin = new Scanner(System.in);
+        double year = sin.nextDouble();
+
+        while (year-- > 0) {
+            a = a + a * 0.05;
+        }
+        System.out.println(a);
+
     }
 }

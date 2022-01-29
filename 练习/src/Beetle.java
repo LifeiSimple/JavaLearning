@@ -44,8 +44,10 @@ public class Beetle extends Insect {
 }
 /* 输出：
 static Insect.x1 initialized
+static Insect.xx static block initialized
 static Beetle.x2 initialized
 Beetle constructor
+static Insect.xxx block initialized
 i = 9, j = 0
 Beetle.k initialized
 k = 47
