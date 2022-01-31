@@ -1,0 +1,27 @@
+package JUC.juc;
+
+import java.util.concurrent.CountDownLatch;
+
+// 演示 CountDownLatch
+public class CountDownLatchDemo1 {
+
+    // 6 个同学陆续离开教室之后，班长锁门
+    public static void main(String[] args) throws InterruptedException {
+
+        // 创建 CountDownLatch 对象，设置初始值
+        CountDownLatch countDownLatch = new CountDownLatch(6);
+
+        for (int i = 1; i <= 6; i++) {
+            new Thread(() -> {
+                System.out.println(Thread.currentThread().getName() + " 号同学离开了教室");
+
+                // 计数 -1
+                countDownLatch.countDown();
+
+            }, String.valueOf(i)).start();
+        }
+
+        countDownLatch.await();
+        System.out.println(Thread.currentThread().getName() + " 班长锁门走人");
+    }
+}

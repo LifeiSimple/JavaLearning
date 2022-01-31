@@ -6,6 +6,9 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class Nothing implements Person, Named {
+    public class Inner {}
+    public static class StaticInner {}
+
     public static void main(String[] args) {
 
         MITest test = new MITest("wangjiaxiang");
@@ -26,6 +29,21 @@ public class Nothing implements Person, Named {
         System.out.println(aa.hashCode());
         aa = "wangjiaxiangd";
         System.out.println(aa.hashCode());
+
+        Thread t = new Thread(() -> {
+
+        });
+        Thread t2 = new Thread(() -> {
+            try {
+                t.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        });
+
+        Nothing dn = new Nothing();
+        Nothing.Inner dni = dn.new Inner();
+        Nothing.StaticInner staticInner = new Nothing.StaticInner();
     }
 
     @Override

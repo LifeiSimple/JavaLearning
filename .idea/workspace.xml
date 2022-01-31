@@ -4,84 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1991a6d-2939-4f33-a5a2-062f5083a1de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/AbstractList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Stack/AbstractStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/ChaRuSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/MaoPaoSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/XuanZeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/AbstractList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/ArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/AbstractStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/ChaRuSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/MaoPaoSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/XuanZeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ChaRuSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MaoPaoSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/XuanZeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode203.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode59.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/SynchBankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/SynchBankTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/UnsynchBankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/FileIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/FieldAccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/FileClass/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Super.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/jisuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/SynchBankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/SynchBankTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/UnsynchBankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/FileClass/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/练习/Named.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Named.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/练习/Nothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Nothing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/练习/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/src/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Beetle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/src/JiCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/JiCheng.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/src/Nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Nothing.java" afterDir="false" />
+    <list default="true" id="b1991a6d-2939-4f33-a5a2-062f5083a1de" name="Changes" comment="多线程、反射">
+      <change afterPath="$PROJECT_DIR$/CoreJava/Algorithm/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/callable/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/completable/CompletableFutureDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/forkjoin/ForkJoinDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/juc/CountDownLatchDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/juc/CyclicBarrierDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/juc/SemaphoreDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/lock/LSaleTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/lock/ThreadDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/lock/ThreadDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/pool/ThreadPoolDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/readwrite/ReadWriteLockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/syn/ProducerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/JUC/syn/ThreadDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/并发/MyThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/并发/Test_3_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/练习/src/并发/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,8 +62,12 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/concurrent/Future.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/concurrent/RunnableFuture.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -129,12 +75,16 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Java/apache-maven-3.8.4" />
-        <option name="userSettingsFile" value="D:\Java\apache-maven-3.8.4\conf\settings.xml" />
+        <option name="localRepository" value="D:\Java\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Java/apache-maven" />
+        <option name="userSettingsFile" value="D:\Java\apache-maven\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx1024m" />
       </MavenImportingSettings>
     </option>
@@ -143,32 +93,22 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="20g1cjlcQC7Y5dpoWiQdyDSwfB2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/DataStructure/src" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.42627737" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="settings.editor.splitter.proportion" value="0.25988144" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../设计模式" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -186,7 +126,7 @@
       <recent name="v1ch03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest">
+  <component name="RunManager" selected="Application.File">
     <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharIO.File" />
       <module name="练习" />
@@ -200,12 +140,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteIO.FileIO" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="图书管理系统（控制台版本）" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductAndCustomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch12.生产者消费者.ProductAndCustomer" />
+      <module name="java基础学习" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v1ch12.生产者消费者.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_3_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="并发.Test_3_14" />
       <module name="练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ByteIO.*" />
+          <option name="PATTERN" value="并发.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,38 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileClass.FileTest" />
+    <configuration name="ThreadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="并发.ThreadTest" />
       <module name="练习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.Main" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Main" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="List.*" />
+          <option name="PATTERN" value="并发.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,21 +187,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.FileIO" />
       <item itemvalue="Application.File" />
-      <item itemvalue="Application.FileTest" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.ProductAndCustomer" />
+      <item itemvalue="Application.Test_3_14" />
+      <item itemvalue="Application.ThreadTest" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.FileTest" />
-        <item itemvalue="Application.File" />
-        <item itemvalue="Application.FileIO" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -360,7 +285,27 @@
       <workItem from="1643077028659" duration="4395000" />
       <workItem from="1643163703145" duration="2971000" />
       <workItem from="1643247941431" duration="8448000" />
-      <workItem from="1643428654124" duration="6061000" />
+      <workItem from="1643428654124" duration="9499000" />
+      <workItem from="1643524193305" duration="2073000" />
+      <workItem from="1643553088390" duration="2145000" />
+      <workItem from="1643599299582" duration="3067000" />
+      <workItem from="1643779241232" duration="122000" />
+      <workItem from="1644736973337" duration="1316000" />
+      <workItem from="1644816809148" duration="1202000" />
+      <workItem from="1644895125675" duration="5368000" />
+      <workItem from="1645095337174" duration="3704000" />
+      <workItem from="1645099401778" duration="9046000" />
+      <workItem from="1645111901568" duration="71000" />
+      <workItem from="1645152068047" duration="12549000" />
+      <workItem from="1645242093508" duration="3168000" />
+      <workItem from="1646618017746" duration="1261000" />
+      <workItem from="1647768264864" duration="2000" />
+      <workItem from="1647852026129" duration="110000" />
+      <workItem from="1647914006570" duration="600000" />
+      <workItem from="1649831980635" duration="68000" />
+      <workItem from="1650081735950" duration="12000" />
+      <workItem from="1650111198860" duration="124000" />
+      <workItem from="1651654506292" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="第一次git提交">
       <created>1637592721406</created>
@@ -453,7 +398,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641220179215</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="并发+IO">
+      <created>1643446240689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643446240689</updated>
+    </task>
+    <task id="LOCAL-00015" summary="多线程、反射">
+      <created>1643613707709</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1643613707709</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +481,9 @@
     <MESSAGE value="Exception" />
     <MESSAGE value="泛型类" />
     <MESSAGE value="集合 + 类初始化顺序" />
-    <option name="LAST_COMMIT_MESSAGE" value="集合 + 类初始化顺序" />
+    <MESSAGE value="并发+IO" />
+    <MESSAGE value="多线程、反射" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程、反射" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,13 +498,11 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="fields" />
-        <watch expression="a[0]" language="JAVA" />
-        <watch expression="a[0]" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedList" memberName="modCount" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
