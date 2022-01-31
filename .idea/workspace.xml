@@ -5,82 +5,97 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1991a6d-2939-4f33-a5a2-062f5083a1de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/AbstractList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/List/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Stack/AbstractStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/Tree/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/ChaRuSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/MaoPaoSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/src/sort/XuanZeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/leetcode59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/AbstractList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/ArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/LinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/List/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Stack/AbstractStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/Tree/TreeNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/ChaRuSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/MaoPaoSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DataStructure/sort/XuanZeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ChaRuSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MaoPaoSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/XuanZeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode203.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/leetcode59.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch/SynchBankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/SynchBankTest2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/threads/ThreadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/unsynch/UnsynchBankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/ByteIO/FileIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/CharIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/FieldAccess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/FileClass/FileTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Sub.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/Super.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/练习/jisuan.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch/SynchBankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/synch2/SynchBankTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/threads/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1ch12/unsynch/UnsynchBankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/ByteIO/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/CharIO/File2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/练习/src/FileClass/FileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoreJava/v1ch12/生产者消费者/ProductAndCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/生产者消费者/ProductAndCustomer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/图书管理系统（控制台版本）/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/图书管理系统（控制台版本）/Main$Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/图书管理系统（控制台版本）/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/图书管理系统（控制台版本）/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/Nothing$Inner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/练习/Nothing$StaticInner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图书管理系统（控制台版本）/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图书管理系统（控制台版本）/src/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/图书管理系统（控制台版本）/图书管理系统（控制台版本）.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java基础学习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java基础学习.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/SynchBankTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java基础学习/v1ch12/synch2/SynchBankTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/Beetle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Beetle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/FileClass/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/FileClass/FileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/Insect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Insect.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/LengthComparator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/练习/Named.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Named.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/练习/Nothing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Nothing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/练习/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/练习/jisuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/练习/jisuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/BigIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/BigIntegerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/IO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/LotteryDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/LotteryDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/TwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/TwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch03/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch03/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/CalendarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/CalendarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/ConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/ConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/ConstructorTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/ConstructorTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/InstanceAndClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/InstanceAndClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/PackageTest/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/PackageTest/PackageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/PackageTest/com/horstmann/corejava/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/PackageTest/com/horstmann/corejava/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch04/StaticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch04/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/MyTest/Nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/MyTest/Nothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/MyTest/ReflectionMyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/MyTest/ReflectionMyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/MyTest/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/MyTest/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/MyTest/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/MyTest/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/ReflectionTest/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/ReflectionTest/ReflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/arrayList/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/arrayList/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/arrayList/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/arrayList/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/arrays/CopyOfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/arrays/CopyOfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/enums/EnumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/enums/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/equals/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/equals/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/equals/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/equals/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/equals/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/equals/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/methods/MethodTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/methods/MethodTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/objectAnalyzer/ObjectAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/objectAnalyzer/ObjectAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch05/objectAnalyzer/ObjectAnalyzerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch05/objectAnalyzer/ObjectAnalyzerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/anonymousInnerClass/AnonymousInnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/anonymousInnerClass/AnonymousInnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/clone/CloneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/clone/CloneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/clone/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/clone/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/innerClass/InnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/innerClass/InnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/interfaces/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/interfaces/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/interfaces/EmployeeSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/interfaces/EmployeeSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/lambda/LambdaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/lambda/LambdaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/staticInnerClass/StaticInnerClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/staticInnerClass/StaticInnerClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch06/timer/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch06/timer/TimerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch07/except/ExceptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch07/except/ExceptTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch07/exceptional/ExceptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch07/exceptional/ExceptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/genericReflection/GenericReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/genericReflection/GenericReflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/genericReflection/TypeLiterals.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/genericReflection/TypeLiterals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair1/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair1/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair1/PairTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair1/PairTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair2/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair2/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair2/PairTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair2/PairTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair3/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair3/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair3/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair3/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch08/pair3/PairTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch08/pair3/PairTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/linkedList/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/linkedList/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/map/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/map/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/map/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/map/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/priorityQueue/PriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/priorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/shuffle/ShuffleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/shuffle/ShuffleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/treeSet/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/treeSet/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch09/treeSet/TreeSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch09/treeSet/TreeSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/synch/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/synch/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/synch/SynchBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/synch/SynchBankTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/synch2/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/synch2/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/synch2/SynchBankTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/synch2/SynchBankTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/threads/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/threads/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/threads/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/threads/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/unsynch/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/unsynch/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v1ch12/unsynch/UnsynchBankTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava/v1ch12/unsynch/UnsynchBankTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/练习/src/Beetle.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Beetle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/练习/src/JiCheng.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/JiCheng.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/练习/src/Nothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/练习/src/Nothing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +136,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../Java/jdk/src.zip!/java/util/Comparator.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -164,10 +180,10 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.42627737" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="settings.editor.splitter.proportion" value="0.25988144" />
   </component>
   <component name="RecentsManager">
@@ -186,26 +202,20 @@
       <recent name="v1ch03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileTest">
+  <component name="RunManager" selected="Application.ProductAndCustomer">
+    <configuration name="Beetle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Beetle" />
+      <module name="练习" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharIO.File" />
       <module name="练习" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CharIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ByteIO.FileIO" />
-      <module name="练习" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ByteIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,25 +236,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tree.Main" />
-      <module name="DataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Tree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="图书管理系统（控制台版本）" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="List.Main" />
-      <module name="DataStructure" />
+    <configuration name="ProductAndCustomer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v1ch12.生产者消费者.ProductAndCustomer" />
+      <module name="java基础学习" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="List.*" />
+          <option name="PATTERN" value="v1ch12.生产者消费者.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,19 +257,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.FileIO" />
       <item itemvalue="Application.File" />
       <item itemvalue="Application.FileTest" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Beetle" />
+      <item itemvalue="Application.ProductAndCustomer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductAndCustomer" />
+        <item itemvalue="Application.Beetle" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.File" />
-        <item itemvalue="Application.FileIO" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +364,10 @@
       <workItem from="1643077028659" duration="4395000" />
       <workItem from="1643163703145" duration="2971000" />
       <workItem from="1643247941431" duration="8448000" />
-      <workItem from="1643428654124" duration="6061000" />
+      <workItem from="1643428654124" duration="9499000" />
+      <workItem from="1643524193305" duration="2073000" />
+      <workItem from="1643553088390" duration="2145000" />
+      <workItem from="1643599299582" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="第一次git提交">
       <created>1637592721406</created>
@@ -453,7 +460,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641220179215</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="并发+IO">
+      <created>1643446240689</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1643446240689</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -522,7 +536,8 @@
     <MESSAGE value="Exception" />
     <MESSAGE value="泛型类" />
     <MESSAGE value="集合 + 类初始化顺序" />
-    <option name="LAST_COMMIT_MESSAGE" value="集合 + 类初始化顺序" />
+    <MESSAGE value="并发+IO" />
+    <option name="LAST_COMMIT_MESSAGE" value="并发+IO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
